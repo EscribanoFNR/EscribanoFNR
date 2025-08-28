@@ -30,5 +30,6 @@ Aunque el código fuente principal de la plataforma es privado, mi objetivo es c
 
 Estoy siempre abierto a conectar con otros profesionales del sector de los medios, la comunicación y la tecnología.
 
-<a href="https://www.linkedin.com/in/escribano-fuentes-989618381/"><img src="https://img.shields.io/badge/LinkedIn-Escribano_Fuentes-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/escribano-fuentes-989618381/"><img src="https://img.shields.io/badge/LinkedIn-Escribano_Fuentes-blue?style=for-the-badge&logo=linkedin-white" alt="LinkedIn"/></a>
 <a href="https://x.com/EscribanoFNR"><img src="https://img.shields.io/badge/X_(Twitter)-EscribanoFNR-black?style=for-the-badge&logo=x" alt="X (Twitter)"/></a>
+<a href="https://www.instagram.com/escribanofuentes/"><img src="https://img.shields.io/badge/Instagram-escribanofuentes-red?style=for-the-badge&logo=Instagram"/></a>
